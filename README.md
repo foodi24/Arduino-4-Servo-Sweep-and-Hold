@@ -77,3 +77,7 @@ The objective of this project is to program multiple servo motors to perform syn
 
 ---
 
+
+## Link of the design
+https://www.tinkercad.com/things/clOTGDf7XO8/editel?returnTo=%2Fdashboard&sharecode=dv8nTTlT6qowvqCk1JlKnqcpc4iIHhH1G0U95NjszSU
+
