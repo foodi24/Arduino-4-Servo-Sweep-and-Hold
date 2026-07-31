@@ -63,14 +63,7 @@ The objective of this project is to program multiple servo motors to perform syn
 
 ---
 
-## 📂 Repository Structure
 
-```
-Arduino-4-Servo-Sweep-and-Hold/
-│
-├── Arduino-4-Servo-Sweep-and-Hold.ino
-└── README.md
-```
 
 ---
 
